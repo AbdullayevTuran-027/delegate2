@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp8", "ConsoleApp8\ConsoleApp8.csproj", "{89D19B89-6E05-48C2-B462-651A2F814AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{FCC1835D-33CC-4A58-B212-4B0297AD4645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{F44FEF4C-EC42-4754-A1CA-424C0D0B0A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D19B89-6E05-48C2-B462-651A2F814AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D19B89-6E05-48C2-B462-651A2F814AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D19B89-6E05-48C2-B462-651A2F814AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D19B89-6E05-48C2-B462-651A2F814AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC1835D-33CC-4A58-B212-4B0297AD4645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC1835D-33CC-4A58-B212-4B0297AD4645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC1835D-33CC-4A58-B212-4B0297AD4645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC1835D-33CC-4A58-B212-4B0297AD4645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44FEF4C-EC42-4754-A1CA-424C0D0B0A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44FEF4C-EC42-4754-A1CA-424C0D0B0A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44FEF4C-EC42-4754-A1CA-424C0D0B0A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44FEF4C-EC42-4754-A1CA-424C0D0B0A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FDEBA6-D0AF-4A39-9F7E-C62F13248C85}
+	EndGlobalSection
+EndGlobal
